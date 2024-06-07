@@ -37,7 +37,7 @@ body {
 }
 
 .subtitle {
-    color: white;
+    color: rgb(185, 14, 185);
     font-size: 30px;
 }
 
@@ -49,7 +49,7 @@ body {
     padding: 2px;
     margin: 20px;
     width: 200px;
-    border: 2px solid rgb(72, 105, 248);
+    border: 2px solid rgb(185, 14, 185);
     
     
 }
@@ -79,7 +79,7 @@ body {
 }
 
 .buttonclicked {
-    background-color: rgb(72, 105, 248);
+    background-color: rgb(185, 14, 185);
     color: white;
     width: 150px;
     height: 50px;
@@ -91,7 +91,7 @@ body {
     align-items: start;
     justify-content: center;
     border-radius: 20px;
-    border: 2px solid rgb(72, 105, 248);
+    border: 2px solid rgb(185, 14, 185);
     margin-top: 50px;
     width: 400px;
     list-style: none;
@@ -105,7 +105,7 @@ body {
 }
 
 .h3-visible {
-    color: rgb(72, 105, 248);
+    color: rgb(185, 14, 185);
     display: inline;
     margin-top: 20px;
 }
